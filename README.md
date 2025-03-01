@@ -37,7 +37,7 @@ There was a sudden deep in metric performance in September then a consistent gro
  - There is a balance of engagements across all content types.
    
 ## Dashboard
-![dashboard](SM_dashboard.PNG)
+![dashboard](social_media_dashboard.PNG)
 
 ## Key Findings
  - The performance of the metrics across all platforms is majorly influenced by the number of posts made. This simply means that as posts reduces, metric performance tends to reduce too.
@@ -55,6 +55,5 @@ Nexus Consulting’s social media performance has shown notable trends across pl
 
 **Tools Used:** Microsoft Excel, Power BI
 
-**Link to Live Dashboard:** [click here](https://app.powerbi.com/view?r=eyJrIjoiMjRlZTVmMTQtYTRiMS00OTRkLTg4MTgtZGVkMDUyMTY3ODE5IiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
-
+**Link to Live Dashboard:** [click here](https://app.powerbi.com/view?r=eyJrIjoiNTFlNDU1NDUtZWU2ZC00YWIxLTkyOWQtYTgwOTIzMGVmZGMzIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
 
