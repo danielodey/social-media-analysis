@@ -7,7 +7,7 @@
 **Date:** February 25, 2025
 
 ## Executive Summary
-This is report provides the performance of Nexus Consulting’s social media performance across Facebook, Instagram and Twitter(X). 
+Nexus Consulting’s social media performance fluctuates across platforms, with engagement heavily influenced by post frequency. August and September saw the weakest performance, while peak months varied—June (Facebook), October (Instagram), and December (Twitter/X). Monday, Tuesday, and Saturday drive the highest engagement. Increasing post frequency and optimizing content for peak days will enhance audience reach and engagement. 
 
 ## Key Performance Indicators (KPI)
 These are the KPIs for each social media platform
@@ -18,9 +18,14 @@ These are the KPIs for each social media platform
  - Total Followers: 38M
 
 **Instagram**
- - Total Impressions: 35M
- - Total Engagements: 637K
- - Total Followers: 38M
+ - Total Impressions: 34M
+ - Total Engagements: 584K
+ - Total Followers: 71M
+
+**Twitter/X**
+ - Total Impressions: 33M
+ - Total Engagements: 591K
+ - Total Followers: 18M
 
 ## Trends and Patterns
 **Facebook**
@@ -53,7 +58,7 @@ There was a sudden deep in metric performance in September then a consistent gro
 ## Conclusion
 Nexus Consulting’s social media performance has shown notable trends across platforms, with fluctuations in engagement, impressions, and follower growth. While each platform has its peak months, overall performance is heavily influenced by posting frequency. Key engagement days—Monday, Tuesday, and Saturday—should be leveraged for maximum reach. By increasing post frequency and maintaining a balanced content strategy, Nexus Consulting can improve its social media impact and sustain audience engagement.
 
-**Tools Used:** Microsoft Excel, Power BI
+**Tools Used:** Power BI
 
 **Link to Live Dashboard:** [click here](https://app.powerbi.com/view?r=eyJrIjoiNTFlNDU1NDUtZWU2ZC00YWIxLTkyOWQtYTgwOTIzMGVmZGMzIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
 
