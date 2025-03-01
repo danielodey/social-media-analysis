@@ -63,5 +63,5 @@ Nexus Consulting’s social media performance has shown notable trends across pl
 **Tool Used:** Power BI
 
 ## Link to Live Dashboard
-[Link to Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTFlNDU1NDUtZWU2ZC00YWIxLTkyOWQtYTgwOTIzMGVmZGMzIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNTFlNDU1NDUtZWU2ZC00YWIxLTkyOWQtYTgwOTIzMGVmZGMzIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
 
