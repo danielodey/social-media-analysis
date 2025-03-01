@@ -31,12 +31,15 @@ These are the KPIs for each social media platform
 
 ## Trends and Patterns
 **Facebook**
+
 We have noticed a consistent reduction in engagements, impressions and followers from June 2024. Also, peak performance period is June 2024. 
 
 **Instagram**
+
 There is an inconsistent pattern across all metrics. It appears that this decline in metrics performance happens roughly around a two-month period starting off at April 2020. 
 
 **Twitter/X**
+
 There was a sudden deep in metric performance in September then a consistent growth followed across all metrics. 
 
 **Overall**
